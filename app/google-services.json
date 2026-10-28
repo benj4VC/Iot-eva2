@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129428214758",
+    "project_id": "dispensadoriot-6f9bf",
+    "storage_bucket": "dispensadoriot-6f9bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129428214758:android:09eb3499e0d146f823bc27",
+        "android_client_info": {
+          "package_name": "cl.benja.dispensadoriot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKPrWdt-pYZhvs5WP2059G64NmSu3Pyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
